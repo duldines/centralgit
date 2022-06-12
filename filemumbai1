@@ -5,3 +5,10 @@ i done following works:
 1) Created log user.
 2) creates temp password for loggin user 
 3) gave umask 0022 for user
+#please make code for billing and user address
+
+#Need to do folloing stuffs:
+1.) Billing methods,
+       a) Debit/credit/masster card accetp
+       b) veryfil user login code.
+       3) shipping address verify
