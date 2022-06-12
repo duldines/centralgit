@@ -1,3 +1,7 @@
 1.put on logging id
 2.create temp passwd
 3.give permission for user
+i done following works:
+1) Created log user.
+2) creates temp password for loggin user 
+3) gave umask 0022 for user
